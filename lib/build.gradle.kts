@@ -18,8 +18,8 @@ repositories {
 dependencies {
     // Use JUnit Jupiter for testing.
     
-    testImplementation("org.junit.jupiter:junit-jupiter:5.10.1")
-    testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.1")
+    testImplementation("org.junit.jupiter:junit-jupiter:5.10.2")
+    testImplementation("org.junit.jupiter:junit-jupiter-api:5.10.2")
 
     testRuntimeOnly("org.junit.platform:junit-platform-launcher")
 
